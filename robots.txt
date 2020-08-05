@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /css
+Disallow: /fonts
+Disallow: /js
+Sitemap: https://www.sahagunonline.tk/sitemap.xml
